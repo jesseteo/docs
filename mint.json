@@ -58,6 +58,12 @@
       ]
     },
     {
+      "group": "Apifox Markdown",
+      "pages": [
+        "apifox-md/accordion"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
